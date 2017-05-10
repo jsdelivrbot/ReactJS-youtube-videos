@@ -2,8 +2,8 @@
 ### **Getting started**
 ### Technologies Used: 
 #### HTML5, CSS3, React.js
- - Run  :  `git clone `
- - Run  :  `cd `
+ - Run  :  `git clone https://github.com/getwebem/youTubeClone.git`
+ - Run  :  `cd youTubeClone`
  - Run  :  `npm install`
  - Run  :  `npm start`
  - Browser :  `http://localhost:8080`
