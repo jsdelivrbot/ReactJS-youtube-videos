@@ -1,7 +1,7 @@
 # YouTube Clone
 ### **Getting started**
 ### Technologies Used:
-#### HTML5, CSS3, Bootstrap 4.0, React.js, RESTful Api, JSON
+#### HTML5, CSS3, Bootstrap 4.0, React.js, RESTful Api, Lodash, JSON
  - Run  :  `git clone https://github.com/getwebem/youTubeClone.git`
  - Run  :  `cd youTubeClone`
  - Run  :  `npm install`
